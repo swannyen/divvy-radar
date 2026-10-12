@@ -1,0 +1,11 @@
+{
+    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+    "name": "divvy",
+    "version": "1.0.0",
+    "description": "Scan SGX dividend announcements once a week to inform which onese I still have time to act on.",
+    "extensions": {
+        "ai.nanoco.nanoclaw": {
+            "agentName": "Divvy"
+        }
+    }
+}
